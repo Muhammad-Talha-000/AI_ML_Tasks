@@ -142,4 +142,4 @@ jupyter notebook heart_disease_analysis.ipynb
 
 **Muhammad Talha**
 AI/ML Intern – DevelopersHub Corporation
-GitHub: [@Muhammad Talha)(https://github.com/Muhammad-Talha-000)
+GitHub: [@Muhammad Talha](https://github.com/Muhammad-Talha-000)
